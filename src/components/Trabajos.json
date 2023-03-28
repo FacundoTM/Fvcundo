@@ -2,7 +2,7 @@
     {
         "title":"Rock, Paper, Scissors",
         "description":"Classic game, better of five. JavaScript & HTML",
-        "tIMG":"./img/job1.png",
+        "tIMG":"https://raw.githubusercontent.com/FacundoTM/Fvcundo/main/src/img/job1.png",
         "tClass":"imgb",
         "link":"https://facundotm.github.io/RPS/",
         "shortDesc":"RPS"
@@ -10,7 +10,7 @@
     {
         "titulo":"Piedra papel o tijera",
         "descripcion":"Juego clasico, mejor de cinco. JavaScript & HTML",
-        "esIMG":"./img/job1.png",
+        "esIMG":"https://raw.githubusercontent.com/FacundoTM/Fvcundo/main/src/img/job1.png",
         "esClass":"imgb",
         "eslink":"https://facundotm.github.io/RPS/",
         "esshortDesc":"RPS"
@@ -18,7 +18,7 @@
     {
         "title":"Calculator",
         "description":"Simple calculator",
-        "tIMG":"./img/job2.png",
+        "tIMG":"https://raw.githubusercontent.com/FacundoTM/Fvcundo/main/src/img/job2.png",
         "tClass":"imgb",
         "link":"https://facundotm.github.io/Calculator/",
         "shortDesc":"Calculator"
@@ -26,9 +26,10 @@
     {
         "titulo":"Calculadora",
         "descripcion":"Calculador simple",
-        "esIMG":"./img/job2.png",
+        "esIMG":"https://raw.githubusercontent.com/FacundoTM/Fvcundo/main/src/img/job2.png",
         "esClass":"imgb",
         "eslink":"https://facundotm.github.io/Calculator/",
         "esshortDesc":"Calculadora"
     }
+    
 ]

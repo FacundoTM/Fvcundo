@@ -1,4 +1,4 @@
-import { useParams } from 'react-router-dom';
+import { useParams, Link } from 'react-router-dom';
 
 export function Header() {
   let { Lang } = useParams();
@@ -20,7 +20,7 @@ export function Header() {
             <a href="#contact">{Lang ? "Contacto" : "Contact"}</a>
           </li>
           <li>
-            <a href={Lang ? "./" : "./es"}>{Lang ? "English" : "Español"}</a>
+            <Link to={Lang ? "./" : "./es"}>{Lang ? "English" : "Español"}</Link>
           </li>
         </ul>
       </nav>
