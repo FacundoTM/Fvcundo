@@ -10,7 +10,6 @@ export function App() {
           <Routes>
             <Route path="/Fvcundo/" element={<Landing />}>
               <Route path="/Fvcundo/:Lang" element={<Landing />} />
-              <Route path="/Fvcundo/es" element={<Landing />} />
               <Route path="*" element={<NoPage />} />
             </Route>
           </Routes>
